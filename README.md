@@ -9,15 +9,19 @@ Docker installed on your machine
 
 
 Tech stack :
-Groq
-Vison Transformers
-flask
+Groq,
+Vison Transformers,
+flask,
 kubernetes
-circleCI
-Google Cloud
+circleCI,
+Google Cloud,
 
 
 
+
+1. Pull image from dockerhub
+
+   
 docker pull damton/my-celebrity-detector
 
 
