@@ -4,13 +4,19 @@ Users to upload a jpeg pictures of their favourite public figure and THE Applica
 🧾 Requirements
 Docker installed on your machine
 
-Tech stack
+
+
+
+
+Tech stack :
 Groq
 Vison Transformers
 flask
 kubernetes
 circleCI
 Google Cloud
+
+
 
 docker pull damton/my-celebrity-detector
 
